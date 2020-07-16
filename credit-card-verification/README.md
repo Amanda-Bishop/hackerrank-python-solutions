@@ -6,7 +6,7 @@ This program determines whether an credit card number is valid based on the foll
 - It only consists of numbers (0-9)
 - It may have digits in groups of 4, separated by one hyphen '-' 
 - It must not contain any other separator such as ' ' or '_'
-- It must not have 4 or more consecutive repeated digits
+- It must not have 4 or more consecutive repeated digits  
 It takes input in the following form:  
 n (a number greater than 0 and less than 100) representing the number of lines to follow. 
 And for each following line the number to be checked.  
