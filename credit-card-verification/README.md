@@ -10,5 +10,5 @@ This program determines whether an credit card number is valid based on the foll
 It takes input in the following form:  
 n (a number greater than 0 and less than 100) representing the number of lines to follow. 
 And for each following line the number to be checked.  
-It will output in the following form:
+It will output in the following form:  
 Printing either 'Valid' or 'Invalid' based on whether the credit card number is a valid number or not.
